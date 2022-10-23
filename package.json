@@ -1,7 +1,7 @@
 {
-	"name": "pdf",
-	"displayName": "vscode-pdf",
-	"description": "Display pdf file in VSCode.",
+	"name": "pdf-preview",
+	"displayName": "PDF Preview",
+	"description": "Display PDF file in VSCode.",
 	"version": "0.0.1",
 	"publisher": "fox20431",
 	"engines": {

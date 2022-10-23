@@ -17,10 +17,10 @@
 	"icon": "",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/tomoki1207/vscode-pdfviewer.git"
+		"url": "https://github.com/fox20431/pdf-preview"
 	},
 	"bugs": {
-		"url": "https://github.com/tomoki1207/vscode-pdfviewer/issues"
+		"url": "https://github.com/fox20431/pdf-preview/issues"
 	},
 	"activationEvents": [
 		"onCustomEditor:pdf.preview"
